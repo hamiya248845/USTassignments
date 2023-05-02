@@ -1,0 +1,8 @@
+D:\dotnet\Day20\ReactorDemo\ReactorDemo\bin\Debug\ReactorDemo.exe.config
+D:\dotnet\Day20\ReactorDemo\ReactorDemo\bin\Debug\ReactorDemo.exe
+D:\dotnet\Day20\ReactorDemo\ReactorDemo\bin\Debug\ReactorDemo.pdb
+D:\dotnet\Day20\ReactorDemo\ReactorDemo\obj\Debug\ReactorDemo.csproj.AssemblyReference.cache
+D:\dotnet\Day20\ReactorDemo\ReactorDemo\obj\Debug\ReactorDemo.csproj.SuggestedBindingRedirects.cache
+D:\dotnet\Day20\ReactorDemo\ReactorDemo\obj\Debug\ReactorDemo.csproj.CoreCompileInputs.cache
+D:\dotnet\Day20\ReactorDemo\ReactorDemo\obj\Debug\ReactorDemo.exe
+D:\dotnet\Day20\ReactorDemo\ReactorDemo\obj\Debug\ReactorDemo.pdb
