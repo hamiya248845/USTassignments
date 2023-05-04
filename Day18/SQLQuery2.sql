@@ -1,0 +1,1 @@
+insert into Persons(PersonlId,LastName,FirstName,Address,City,Salary) values(1001,'James','Bindu','ftygh','Ern',50000);
