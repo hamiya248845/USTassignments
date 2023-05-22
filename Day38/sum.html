@@ -1,0 +1,101 @@
+<html>
+
+<head>
+
+  <title>Sum of two numbers</title>
+
+  <h1>Sum of Two Numbers</h1>
+
+</head>
+
+<body>
+
+  <label >Num 1 </label>
+
+  <input type="text" id="num1"><br>
+
+  <label>Num 2 </label>
+
+  <input type="text" id="num2" ><br>
+
+  <label >Select Operator</label>
+
+  <select id="operators">
+
+    <option value="select">Select</option>
+
+    <option value="+">+</option>
+
+    <option value="-">-</option>
+
+    <option value="*">*</option>
+
+    <option value="/">/</option>
+
+  </select><br>
+
+  <button onclick="Calculate()">Calculate</button><br>
+
+  <label>Result</label>
+
+  <input type="text" id="result">
+
+  <script>
+
+    function Calculate()
+
+    {
+
+      var b1=parseFloat(document.getElementById("num1").value);
+
+      var b2=parseFloat(document.getElementById("num2").value);
+
+      var operator=document.getElementById("operators").value;
+
+      var rslt;
+
+      switch(operator)
+
+      {
+
+        case "+":
+
+          rslt=b1+b2;
+
+          break;
+
+        case "-":
+
+          rslt=b1-b2;
+
+          break;
+
+        case "*":
+
+          rslt=b1*b2;
+
+          break;
+
+        case "/":
+
+          rslt=b1/b2;
+
+          break;
+
+        default:
+
+          rslt="Invalid Operator";
+
+          break;
+
+      }
+
+      document.getElementById("result").value=rslt;
+
+    }
+
+  </script>
+
+</body>
+
+</html>

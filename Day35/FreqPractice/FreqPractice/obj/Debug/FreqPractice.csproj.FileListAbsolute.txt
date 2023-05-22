@@ -1,0 +1,8 @@
+D:\dotnet\Day35\FreqPractice\FreqPractice\bin\Debug\FreqPractice.exe.config
+D:\dotnet\Day35\FreqPractice\FreqPractice\bin\Debug\FreqPractice.exe
+D:\dotnet\Day35\FreqPractice\FreqPractice\bin\Debug\FreqPractice.pdb
+D:\dotnet\Day35\FreqPractice\FreqPractice\obj\Debug\FreqPractice.csproj.AssemblyReference.cache
+D:\dotnet\Day35\FreqPractice\FreqPractice\obj\Debug\FreqPractice.csproj.SuggestedBindingRedirects.cache
+D:\dotnet\Day35\FreqPractice\FreqPractice\obj\Debug\FreqPractice.csproj.CoreCompileInputs.cache
+D:\dotnet\Day35\FreqPractice\FreqPractice\obj\Debug\FreqPractice.exe
+D:\dotnet\Day35\FreqPractice\FreqPractice\obj\Debug\FreqPractice.pdb
